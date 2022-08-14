@@ -1,20 +1,25 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
-	],
-
+	"storyName": "How was the fall?",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"tutBf",
+		""
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Tutorial"
 }
